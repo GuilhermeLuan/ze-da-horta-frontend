@@ -62,4 +62,4 @@ src/
 - `npm run dev`: Inicia o servidor em modo de desenvolvimento.
 - `npm run build`: Compila a aplicação para produção.
 - `npm run start`: Inicia um servidor de produção.
-- `npm run lint`: Executa o linter para análise de código.git checkout -b maingit checkout -b main
+- `npm run lint`: Executa o linter para análise de código
