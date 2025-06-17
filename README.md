@@ -19,23 +19,19 @@ Frontend do sistema Ze da Horta, uma plataforma que conecta produtores rurais di
 
 ## Pré-requisitos
 - Node.js (versão 18 ou superior)
-- npm, pnpm ou yarn
+- npm
 
 ## Configuração do Ambiente
 
 ### 1. Clone o Repositório
 ```bash
-git clone <URL_DO_SEU_REPOSITORIO>
-cd hortifresh-app-refactor
+git clone https://github.com/GuilhermeLuan/ze-da-horta-frontend.git
+cd ze-da-horta-frontend
 ```
 
 ### 2. Instale as Dependências
 ```bash
-npm install
-# ou
-pnpm install
-# ou
-yarn install
+npm install --legacy-peer-deps
 ```
 
 ## Executando o Projeto
@@ -44,8 +40,6 @@ yarn install
 Para rodar o projeto na porta 3001:
 ```bash
 npm run dev
-# ou
-pnpm dev
 ```
 
 ## Estrutura do Projeto
